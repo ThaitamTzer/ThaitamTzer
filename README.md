@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VLIC Platform<br>🌱 I’m currently learning React-native<br>💬 Ask me about Frontend, Nextjs, and improve frontend performance
+🔭 I’m currently working on VLU-Chatbot<br>🌱 I’m currently learning React-native<br>💬 Ask me about Frontend, Nextjs, and improve frontend performance
 
 
 ## 🌐 Socials:
